@@ -6,4 +6,6 @@ https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/adefd06d-85fa-4a
 
 
 
-Url to the notebook week 3: https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0d6e82c4-50b8-4edf-ba43-92738adbe092/view?access_token=b7fd285fa4e29ef714aa4a2f240a1becf5086bb6c6a786da2b52c254f8889111
+Url to the notebook week 3: 
+
+https://eu-gb.dataplatform.cloud.ibm.com/analytics/notebooks/v2/0d6e82c4-50b8-4edf-ba43-92738adbe092/view?access_token=b7fd285fa4e29ef714aa4a2f240a1becf5086bb6c6a786da2b52c254f8889111
